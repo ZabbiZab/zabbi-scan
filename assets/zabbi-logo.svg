@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 210">
+  <g fill="#111111">
+    <path d="M20 10h175v38H58v115h137v37H20V10zm76 48h46l-39 39H57l39-39zm-39 92 39-39h46l-39 39H57z"/>
+    <text x="235" y="145"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="96"
+          font-weight="700"
+          letter-spacing="-3">
+      Zabbi
+    </text>
+  </g>
+</svg>
